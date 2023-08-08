@@ -1,2 +1,4 @@
 title: Tom Armstrong
-logo:
+logo: /portrait.jpg
+#text: 
+theme: jekyll_theme_minimal
