@@ -1,7 +1,7 @@
 # Ecologist, Conservation Technology
 
 ### Skills
-- R, ArcGIS, SQL, Linix
+-R, ArcGIS, SQL, Linix
 
 ### BIO
 -I am very interested in how ecological community’s function. I enjoy observing the connectiveness of inter and intraspecies relationships and strive to better understand how -these relationships can be preserved in an ever-changing world.
