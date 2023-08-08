@@ -1,6 +1,6 @@
-# Ecologist, Conservation Technology
+# Ecologist, Conservation Technologist, Data Scientist 
 
-### Skills
+### Technical Skills
 -R, ArcGIS, SQL, Linix
 
 ### BIO
@@ -10,6 +10,10 @@
 
 
 ### Education
+
+-Bachelor Degree | Zoology | UNE, Australia (in progress)
+-Graduate Diploma | Data Science | UNE, Australia (in progress)
+-Bachelor Degree | Audio Production | SAE, Australia (completed 2009)
 
 ### Projects
 
