@@ -5,6 +5,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Profile</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c6f2d;
+        }
+        h2 {
+            color: #3c763d;
+            margin-top: 20px;
+        }
+        h3 {
+            color: #5b9bd5;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        a {
+            color: #0077b5; /* LinkedIn color */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            vertical-align: middle;
+            margin-left: 5px;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -18,18 +60,18 @@
             <li><strong>Linux</strong></li>
         </ul>
 
-<h2>About Me</h2>
+ <h2>About Me</h2>
 
 <h3>Passion for Nature</h3>
         <p>My deep passion for the natural world and desire to contribute to its preservation have shaped my career path...</p>
 
-<h3>Conservation Technology</h3>
+ <h3>Conservation Technology</h3>
         <p>I have a strong interest in applying conservation technology to enhance ecological decision-making...</p>
 
-<h3>My Goals</h3>
+ <h3>My Goals</h3>
         <p>My goal is to leverage innovations in technology to streamline data collection and analysis...</p>
 
-<h3>Key Areas of Focus</h3>
+ <h3>Key Areas of Focus</h3>
         <ul>
             <li><strong>Remote Sensing</strong>: Utilizing satellite and aerial imagery for habitat mapping and species monitoring.</li>
             <li><strong>Bioacoustics</strong>: Implementing sound analysis for wildlife detection and behavioral studies.</li>
