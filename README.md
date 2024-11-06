@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ecologist, Conservation Technologist, Data Scientist
 
 ---
@@ -13,13 +17,13 @@
 ## About Me
 
 ### Passion for Nature
-My deep passion for the natural world and desire to contribute to its preservation have shaped my career path. From an early age, I’ve been captivated by wildlife and ecosystems, particularly how species interact within their environments. This fascination has grown into a commitment to make a tangible impact on conservation efforts and protecting biodiversity.
+My deep passion for the natural world and desire to contribute to its preservation have shaped my career path...
 
 ### Conservation Technology
-One of my key interests is the application of conservation technology to improve ecological decision-making. With advancements in remote sensing, bioacoustics, and data analysis, we now have powerful tools to monitor species and habitats more effectively. I am particularly driven by the potential of these technologies to gather critical data that can inform conservation strategies, enhance wildlife management, and mitigate human impact on fragile ecosystems.
+One of my key interests is the application of conservation technology to improve ecological decision-making...
 
 ### My Goals
-My goal is to leverage these innovations to streamline data collection and analysis, ensuring that conservation efforts are based on accurate, real-time information. Whether through developing innovative monitoring systems or applying machine learning to classify species behavior, I strive to be at the forefront of integrating technology with ecology to support sustainable conservation practices for future generations.
+My goal is to leverage these innovations to streamline data collection and analysis...
 
 ### Key Areas of Focus
 - **Remote Sensing**: Utilizing satellite and aerial imagery for habitat mapping and species monitoring.
@@ -28,7 +32,7 @@ My goal is to leverage these innovations to streamline data collection and analy
 - **Community Engagement**: Promoting awareness and involvement in conservation initiatives.
 
 ### Get in Touch
-I am always eager to connect with fellow enthusiasts and professionals in the field. If you’re interested in collaboration, discussions, or sharing insights on conservation technology, feel free to reach out!
+I am always eager to connect with fellow enthusiasts and professionals in the field. If you’re interested in collaboration, discussions, or sharing insights on conservation technology, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
 ---
 
@@ -44,6 +48,3 @@ I am always eager to connect with fellow enthusiasts and professionals in the fi
 
 ## Social
 <!-- Include links to your social media or professional profiles here -->
-
----
-
