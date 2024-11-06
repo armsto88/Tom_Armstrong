@@ -1,5 +1,5 @@
 title: Tom Armstrong
 logo: /portrait.jpg
 #text: 
-theme: minima
+theme: jekyll-theme-minimal
 css: style.css
