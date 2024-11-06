@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Ecologist, Conservation Technologist, Data Scientist
 
@@ -32,7 +29,8 @@ My goal is to leverage these innovations to streamline data collection and analy
 - **Community Engagement**: Promoting awareness and involvement in conservation initiatives.
 
 ### Get in Touch
-I am always eager to connect with fellow enthusiasts and professionals in the field. If you’re interested in collaboration, discussions, or sharing insights on conservation technology, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+I am always eager to connect with fellow enthusiasts and professionals in the field. If you’re interested in collaboration, discussions, or sharing insights on conservation technology, feel free to reach out! You can connect with me on [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.png)](https://www.linkedin.com/in/tom-armstrong-8788452b/).
+
 
 ---
 
