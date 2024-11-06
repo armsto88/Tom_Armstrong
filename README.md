@@ -50,7 +50,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>🌿 Interested in Ecology, Conservation Technology, Remote Sensing & Data Science.</h1>
+        <h1>🌿 Ecology, Conservation Technology, Remote Sensing & Data Science.</h1>
 
 <h2>Skills</h2>
         <ul>
